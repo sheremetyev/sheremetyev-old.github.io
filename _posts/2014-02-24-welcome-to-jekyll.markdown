@@ -98,6 +98,11 @@ Press **^⌘L** to create a table, ⌥⌘+arrow keys to add more columns or rows
 | Images       | ✓                     | ✓                 | ✓                  |
 | Tables       | ✓                     | ✓                 | ✓                  |
 
+Images
+======
+
+![](<http://www.texts.io/features/formats.png>)
+
 Happy writing!
 ==============
 
