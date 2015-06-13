@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-02-24 22:27:55
 categories: jekyll update
+date: "2014-02-24 22:27:55"
+title: "Welcome to Jekyll!"
 ---
 
 Welcome to Texts!
@@ -33,16 +33,14 @@ Hyperlinks
 ----------
 
 Press ⌘K to insert a hyperlink. It can be either literal URL (e.g.
-<http://www.google.com/>) or have some [text][2]. Click URL with ⌘ key pressed
-to open it in web browser.
-
-[2]: <http://www.texts.io/>
+<http://www.google.com/>) or have some [text](<http://www.texts.io/>). Click URL
+with ⌘ key pressed to open it in web browser.
 
 Math
 ----
 
-Formulas can be placed inline like $$E=mc^2$$ or in a separate paragraph, like
-the following one. Standard LaTeX syntax is supported.
+Formulas can be placed inline like $E=mc^2$ or in a separate paragraph, like the
+following one. Standard LaTeX syntax is supported.
 
 $$
 \frac{n!}{k!(n-k)!} = \binom{n}{k}
@@ -89,10 +87,11 @@ indent/unindent items.
 Tables
 ------
 
-Press **^⌘L** to create a table, ⌥⌘+arrow keys to add more columns or rows,
-^⌘+arrow keys to move column or row. Here is a sample table.
+Press **\^⌘L** to create a table, ⌥⌘+arrow keys to add more columns or rows,
+\^⌘+arrow keys to move column or row. Here is a sample table.
 
 | **Features** | **Editable in Texts** | **Export to PDF** | **Export to HTML** |
+|--------------|-----------------------|-------------------|--------------------|
 | Basic Styles | ✓                     | ✓                 | ✓                  |
 | Footnotes    | ✓                     | ✓                 | ✓                  |
 | Images       | ✓                     | ✓                 | ✓                  |
